@@ -8,11 +8,11 @@ const json = JSON.parse(args.plainTexts[0])
 // QuickLook.present(json, true)
 /* --- SM4D's Setting JSON Model ---
 {
-  "THIS_ver": "2.1.0",
-  "THIS_name": "SM4D(JS Edition)",
-  "API_lib": "Musica.js",
-  "DATA_lib": "DiscordData Beta1.1",
-  "THIS_icon": "https://discordapp.com/channels/603866437785747459/631624738174926898/728822312115109908"
+  "THIS_ver": <string : x.y.z>,
+  "THIS_name": <string>,
+  "API_lib": <string>,
+  "DATA_lib": <string>,
+  "THIS_icon": <url>
 }
 */ 
 const S = json['setting'];
