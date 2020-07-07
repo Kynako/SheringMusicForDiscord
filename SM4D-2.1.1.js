@@ -123,15 +123,6 @@ for (i = 0; i < Ws.length; i++) {
         "footer": {
           "text": "wT:"+wT+" | wTId:"+Rslt[wT+'Id']
         }
-      },
-      {
-        "author": {
-          "name": "Powered by Odesli"
-        },
-        "color": 16777215,
-        "title": emb_sl_title,
-        "url": emb_sl_url
-      
       }
     ]
   };
